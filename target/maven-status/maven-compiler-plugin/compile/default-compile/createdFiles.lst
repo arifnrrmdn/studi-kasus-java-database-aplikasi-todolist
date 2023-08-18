@@ -1,0 +1,12 @@
+view\TodoListView.class
+AplikasiTodolist.class
+util\InputUtil.class
+entity\Todolist.class
+com\iifrmdn\unikom\todolist\App.class
+repository\TodoListRepositoryImpl.class
+AplikasiTodolistV2.class
+repository\TodoListRepository.class
+service\TodoListService.class
+test\view\TodoListViewTest.class
+test\service\TodoListServiceTest.class
+service\TodoListServiceImpl.class
